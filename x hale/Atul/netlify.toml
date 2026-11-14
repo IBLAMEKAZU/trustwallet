@@ -1,0 +1,7 @@
+# This file is kept for reference but project is now on Vercel
+# [build]
+#   command = "npm run build"
+#   publish = ".next"
+#
+# [[plugins]]
+#   package = "@netlify/plugin-nextjs"
